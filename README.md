@@ -1,5 +1,7 @@
+
 # workshop-of-bivariate-multivariate-analysis
 ![2023-04-04](https://user-images.githubusercontent.com/95761973/229768247-83260d2b-3b43-40d8-8d05-49eeb0e76d62.png)
+![2023-04-04 (1)](https://user-images.githubusercontent.com/95761973/229769648-091a73e1-6942-43e0-b2db-83789f043afd.png)
 ![2023-04-04 (5)](https://user-images.githubusercontent.com/95761973/229768114-3f19e4cf-9428-48e6-a9f3-e410268bc901.png)
 ![2023-04-04 (7)](https://user-images.githubusercontent.com/95761973/229768126-b05b0b34-9171-4ff0-a176-2a783b0d8aa8.png)
 ![2023-04-04 (8)](https://user-images.githubusercontent.com/95761973/229768137-8b5bfc5c-b560-4c14-860b-b8fa178cff05.png)
